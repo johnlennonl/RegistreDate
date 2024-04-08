@@ -30,14 +30,14 @@ form.addEventListener('submit', handleSendEmail);
 
 
 
-const sweetAlert = document.querySelector("#hack");
+// const sweetAlert = document.querySelector("#hack");
 
-sweetAlert.addEventListener("click" , () =>  {
-    Swal.fire({
-        position: "top-end",
-        icon: "success",
-        title: "Hack te da la bienvenida",
-        showConfirmButton: false,
-        timer: 1500
-    });
-})
+// sweetAlert.addEventListener("click" , () =>  {
+//     Swal.fire({
+//         position: "top-end",
+//         icon: "success",
+//         title: "Hack te da la bienvenida",
+//         showConfirmButton: false,
+//         timer: 1500
+//     });
+// })
